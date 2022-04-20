@@ -6,12 +6,11 @@ This is a "Hello World" program written in Python.
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+{Project was created using Visual Studio Code}
 
-{Describe the programming language that you used}
+{Python}
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+{Websites that helped me complete this project}
+* [W3 Schools](https://www.w3schools.com/python/default.asp)
