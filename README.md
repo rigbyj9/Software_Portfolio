@@ -1,6 +1,6 @@
 # Overview
 
-This is a "Hello World" program written in Python. 
+This is a demo of the "Hello World" program written in Python. 
 
 [Software Demo Video](https://youtu.be/QN_CSuiUbME)
 
